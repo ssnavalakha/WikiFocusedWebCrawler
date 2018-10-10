@@ -13,6 +13,4 @@
 << Links_Crawled_WITHOUT_Keyword.txt ---> Search without keyword >>
 << Links_Crawled_WITH_Keyword.txt ----> Search with keyword >>
 
-There are two versions of this project : 
-a light weight Python version : using Beautiful Soup
 A Java version : using jsoup
